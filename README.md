@@ -1,5 +1,4 @@
-Hubbub
-======
+ Hubbub ====== by Debajyoti Mahanta======
 
 Issues get messy, Hubbub keeps you organized.
 
